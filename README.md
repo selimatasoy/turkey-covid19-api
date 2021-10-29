@@ -20,3 +20,13 @@ Body:
 {
     "date" : "20.10.2021"
 }
+
+## Specs:
+
+Spring Framework<br>
+Kotlin<br>
+Authorization -> Simple ApiKey<br>
+Ktor Client -> For External API calls<br>
+Build Tool -> Gradle<br>
+Server -> Tomcat<br>
+API Documentation -> Swagger<br>
